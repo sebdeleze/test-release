@@ -18,6 +18,8 @@ jobs:
           node-version: "lts/*"
       - name: Install dependencies
         run: yarn install
+      - name: Install plugins
+        run: yarn add --dev @semantic-release/git @semantic-release/changelog
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
