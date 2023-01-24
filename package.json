@@ -1,0 +1,8 @@
+{
+  "name": "test-release",
+  "version": "1.0.0",
+  "description": "Test Release",
+  "author": "Sébastien Délèze <sebastien.deleze@iomedia.ch>",
+  "license": "MIT",
+  "private": false
+}
