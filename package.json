@@ -1,8 +1,12 @@
 {
   "name": "test-release",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "description": "Test Release",
   "author": "Sébastien Délèze <sebastien.deleze@iomedia.ch>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/git": "^10.0.1"
+  }
 }
