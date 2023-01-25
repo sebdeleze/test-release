@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/sebdeleze/test-release/compare/v1.2.1...v1.2.2) (2023-01-25)
+
+
+### Bug Fixes
+
+* Move composer generator plugin ([524e64c](https://github.com/sebdeleze/test-release/commit/524e64c9cb0d9123a1221daa32c3b38b2a4b8c27))
+
 ## [1.2.1](https://github.com/sebdeleze/test-release/compare/v1.2.0...v1.2.1) (2023-01-25)
 
 
