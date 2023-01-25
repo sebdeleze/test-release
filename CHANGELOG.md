@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/sebdeleze/test-release/compare/v1.1.1...v1.2.0) (2023-01-25)
+
+
+### Features
+
+* **Project:** Release update composer.json version ([34d8e72](https://github.com/sebdeleze/test-release/commit/34d8e72e8cf341855c0d44ca43740d1ca60375a2))
+
 ## [1.1.1](https://github.com/sebdeleze/test-release/compare/v1.1.0...v1.1.1) (2023-01-24)
 
 
