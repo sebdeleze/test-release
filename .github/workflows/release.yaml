@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Install plugins
-        run: yarn add --dev @semantic-release/git @semantic-release/changelog
+        run: yarn add --dev @semantic-release/git @semantic-release/changelog @iwavesmedia/semantic-release-composer
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
