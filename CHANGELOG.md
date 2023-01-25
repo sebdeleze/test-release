@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/sebdeleze/test-release/compare/v1.2.2...v1.2.3) (2023-01-25)
+
+
+### Bug Fixes
+
+* **Project:** :bug: Add an espace to services.yaml ([817d3f1](https://github.com/sebdeleze/test-release/commit/817d3f13e271e452792b0d25ee8d1dffa5fba4c8))
+
 ## [1.2.2](https://github.com/sebdeleze/test-release/compare/v1.2.1...v1.2.2) (2023-01-25)
 
 
