@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/sebdeleze/test-release/compare/v1.2.0...v1.2.1) (2023-01-25)
+
+
+### Bug Fixes
+
+* Add version to composer.json ([fa5edbd](https://github.com/sebdeleze/test-release/commit/fa5edbdf4fbcea3527f4488213cf937a0e0f352e))
+
 # [1.2.0](https://github.com/sebdeleze/test-release/compare/v1.1.1...v1.2.0) (2023-01-25)
 
 
